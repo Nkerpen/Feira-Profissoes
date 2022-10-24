@@ -97,7 +97,7 @@ body::-webkit-scrollbar-thumb {
     border-width: 0.5vh;
 }
 
-#text-sect {
+#sobre {
     width: 90%;
     font-size: 50;
     background-color: #140220;
@@ -105,6 +105,35 @@ body::-webkit-scrollbar-thumb {
     margin-top: 2%;
 }
 
+#cert {
+    width: 90%;
+    font-size: 50;
+    background-color: #140220;
+    padding: 5%;
+    margin-top: 2%;
+}
+
+#posGrad {
+    width: 90%;
+    font-size: 50;
+    background-color: #140220;
+    padding: 5%;
+    margin-top: 2%;
+}
+#mercTrab {
+    width: 90%;
+    font-size: 50;
+    background-color: #140220;
+    padding: 5%;
+    margin-top: 2%;
+}
+#eu{
+    width: 90%;
+    font-size: 50;
+    background-color: #140220;
+    padding: 5%;
+    margin-top: 2%;
+}
 #sectionTitle {
     font-family: "Silkscreen";
     text-align: center;
@@ -126,16 +155,15 @@ body::-webkit-scrollbar-thumb {
     margin-bottom: 20%;
 }
 #imageSection2{
-    position: absolute;
     right: 15%;
     margin-top: 5%;
     margin-bottom: 5%;
 }
 
 #imageSection3{
-    position: absolute;
-    right: 1%;
+    right: 5%;
     margin-top: 30%;
+    padding-bottom: 30%;
 }
 #catGif{
     width: 60%;
